@@ -31,6 +31,7 @@ Data Scientist with an academic background in Statistics and practical experienc
 ## 📈 **Areas of Interest**
 - Applied Machine Learning
 - Statistical Modeling and Forecasting
+- Text Mining
 - Social Network Analysis
 - Data-driven Decision Making
 - AI for Statistical Processes
