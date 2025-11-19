@@ -43,14 +43,14 @@ I am focused on developing capabilities in **quantitative analysis** and **stati
 
 ### Acquired Certifications and Badges
 
-| Certification | Issued By | Date | Verification |
-| :--- | :--- | :--- | :--- |
+| Certification | Issued By | Date 
+| :--- | :--- | :--- 
 | **Python for Data Science (Advanced)** | Università Federico II | Feb 2025
 | **Python for Data Science (Base)** | Università Federico II | Jun 2024
 | **Celonis Foundations** | Celonis SL | Dec 2024 
-| SAS Programming 1 Essentials | SAS | |  |
-| SAS Advanced Analytics | SAS | |  |
-| SAS Programming 2 | SAS | |  |
+| SAS Programming 1 Essentials | SAS |
+| SAS Advanced Analytics | SAS | 
+| SAS Programming 2 | SAS | 
 
 ### Key Languages
 
