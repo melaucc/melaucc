@@ -37,5 +37,28 @@ Data Scientist with an academic background in Statistics and practical experienc
 
 ---
 
+## 💻 Technical Skills
+
+I am focused on developing capabilities in **quantitative analysis** and **statistical modeling** through specific programming languages:
+
+### Acquired Certifications and Badges
+
+| Certification | Issued By | Date | Verification |
+| :--- | :--- | :--- | :--- |
+| **Python for Data Science (Advanced)** | Università Federico II | Feb 2025 | [Verify Here](https://bestr.it/verify/AAOTEXB9NI) |
+| **Python for Data Science (Base)** | Università Federico II | Jun 2024 | [Verify Here](https://bestr.it/verify/BNIA5QFJEE) |
+| **Celonis Foundations** | Celonis SL | Dec 2024 | [Verify Here](https://www.credly.com/badges/28c657a0-cf29-44ff-8fd2-907e5a092d7e) |
+| SAS Programming 1 Essentials | SAS | |  |
+| SAS Advanced Analytics | SAS | |  |
+| SAS Programming 2 | SAS | |  |
+
+### Key Languages
+
+* **Python:** From beginner to advanced level for Data Science.
+* **R & SAS:** Solid foundation for statistical analysis and modeling.
+* **SQL:** For database management and querying.
+
+---
+
 ## 📬 **Contact**
 📧 **melaniauccello37@gmail.com**
